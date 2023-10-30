@@ -1,6 +1,21 @@
 
 ## API Reference
 
+
+## Para iniciar o projeto
+
+Para instalar os módulos, execute:
+
+```
+npm i
+```
+
+Para iniciar o projeto, execute:
+
+```
+node ./server.js
+```
+
 #### Get all Tasks and Users
 
 ```graphql
