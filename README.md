@@ -22,6 +22,7 @@ Para visualizar o Dashboard do Apollo Server, acesse o endereço:
 localhost:4000
 ```
 
+![Screenshot](Apollo-Server-Image.png)
 
 #### Get all Tasks and Users
 
