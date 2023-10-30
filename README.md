@@ -16,6 +16,13 @@ Para iniciar o projeto, execute:
 node ./server.js
 ```
 
+Para visualizar o Dashboard do Apollo Server, acesse o endereço:
+
+```
+localhost:4000
+```
+
+
 #### Get all Tasks and Users
 
 ```graphql
